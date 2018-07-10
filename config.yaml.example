@@ -1,0 +1,10 @@
+database: mydatabase.db
+
+output_folder: path/to/folder/
+
+view_files: 
+  - file_with_views.sql
+
+query_files: 
+  - file_with_queries1.sql
+  - file_with_queries2.sql
